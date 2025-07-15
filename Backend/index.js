@@ -39,7 +39,7 @@ app.use("/api/user", userRoutes);
 app.use("/api/owner", ownerRoutes);
 app.use("/api/bookings", bookingRoutes);
 app.get("/", (req, res) => {
-  res.send("Welcome to the backend server!");
+  return res.send("Welcome to the backend server!");
 });
 
 // Start the server
