@@ -6,7 +6,7 @@ A modern, full-stack car rental web application where users can browse, search, 
 
 ## 🌐 Live Demo
 
-[🔗 Click here to view the live app](https://your-live-demo-link.com) _(Add if hosted)_
+[🔗 Click here to view the live app](https://car-rental-sable-beta.vercel.app/)
 
 ---
 
